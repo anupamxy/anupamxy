@@ -42,13 +42,3 @@ https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121
 
 
 
-
-
-
-
-
-
-[![GitHub stars](https://img.shields.io/github/stars/anupamxy.svg)](https://github.com/anupamxy)
-[![GitHub contributions](https://github.com/anupamxy)](https://github.com/anupamxy)
-
-
