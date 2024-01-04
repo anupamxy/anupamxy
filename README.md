@@ -1,7 +1,6 @@
-### Hi there 👋
+🙏 Namste Everyone  I'm Anupam!
 
-<!--
-**anupamxy/anupamxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an enthusiastic professional with 1.5 years of hands-on experience as a Full Stack Developer proficient in the MERN (MongoDB, Express.js, React.js, Node.js) and Django frameworks. Throughout my tenure in the field, I have contributed extensively to the development landscape, tackling challenges and delivering robust solutions across various projects.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
