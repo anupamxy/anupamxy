@@ -40,11 +40,5 @@ https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121
 ![Alt text](https://camo.githubusercontent.com/69ab3d5d4f1a013fb242d8ab82efc118146fcb72791937a0495f05c829d0f9b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-brightgreen)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamxy&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaromar" /> </p>
-[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true&title_color=FFFFFF&text_color=DDDDDD&icon_color=DDDD00&bg_color=45,6F2232,950740,C3073F)](https://github.com/anuraghazra/github-readme-stats)
-theme 2: black & purple
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskaromar&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sanskar Omar - Github Stats">
-theme 3:
-![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskaromar&hide=contribs&show_icons=true&title_color=6655CF1&text_color=45A29E&icon_color=665CF1&bg_color=45,0B0C10,1F2833)
-
-
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anupamxy&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="My Profile Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamxy&hide_border=false&theme=tokyonight" alt="My Commit Stats" />
