@@ -1,5 +1,6 @@
-
-                            🙏 Namste Everyone  I'm Anupam!
+<img align="right" src="https://komarev.com/ghpvc/?username=anupamxy&color=00BB00&label=Profile+Views&style=flat" alt="anupamxy" /> 
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Anupam!</h1>
+<h3 align="center">A passionate student developer from India</h3>
                                 
 
 
