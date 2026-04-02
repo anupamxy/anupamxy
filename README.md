@@ -4,18 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1040,60:302b63,100:0d0d2b&height=250&section=header&text=Anupam%20Singh&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20%E2%9A%A1%20GenAI%20%E2%9A%A1%20Multi-Agent%20Systems&descAlignY=62&descSize=20&animation=scaleIn&stroke=7c3aed&strokeWidth=2"/>
 
 <!-- ANIMATED TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=🚀+SDE-1+%40+GetWork+%7C+50K%2B+Users+In+Prod;🤖+GenAI+%7C+RAG+%7C+MCP+%7C+Agentic+AI;🔥+MNNIT+Allahabad+CSE+%7C+Batch+of+%2725;💡+Building+AI+that+thinks+%26+scales;⚡+1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
-</a>
 
-<br/>
-
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupamxy/anupamxy/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupamxy/anupamxy/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/anupamxy/anupamxy/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 <br/>
 
