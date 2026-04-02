@@ -1,196 +1,275 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anupam%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Multi-Agent%20Systems&descAlignY=60&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1040,60:302b63,100:0d0d2b&height=250&section=header&text=Anupam%20Singh&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20%E2%9A%A1%20GenAI%20%E2%9A%A1%20Multi-Agent%20Systems&descAlignY=62&descSize=20&animation=scaleIn&stroke=7c3aed&strokeWidth=2"/>
 
-<!-- TYPING ANIMATION -->
+<!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+production+AI+systems+at+scale+%F0%9F%9A%80;MERN+%7C+Django+%7C+Go+%7C+GenAI+%7C+Agentic+AI;SDE-1+%40+GetWork+%7C+MNNIT+Allahabad+CSE+%E2%80%9925" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=🚀+SDE-1+%40+GetWork+%7C+50K%2B+Users+In+Prod;🤖+GenAI+%7C+RAG+%7C+MCP+%7C+Agentic+AI;🔥+MNNIT+Allahabad+CSE+%7C+Batch+of+%2725;💡+Building+AI+that+thinks+%26+scales;⚡+1000%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anupamxy/anupamxy/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anupamxy/anupamxy/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/anupamxy/anupamxy/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
 <p>
   <a href="https://linkedin.com/in/anupamsingh3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://anupammnnitportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:anupam2k321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://www.leetcode.com/anupampro">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=anupamxy&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=anupamxy&style=for-the-badge&color=7c3aed&label=👀+PROFILE+VIEWS"/>
 </p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-```ts
-const anupam: Developer = {
-  name:        "Anupam Singh",
-  role:        "SDE-1 @ GetWork",
-  education:   "B.Tech CSE — MNNIT Allahabad (2021–2025) | CPI: 7.47",
-  location:    "India 🇮🇳",
-  focus:       ["GenAI", "Multi-Agent Systems", "Full Stack", "LLMs", "RAG"],
-  building:    "AI-powered products at scale (50K–70K+ users)",
-  competitive: "1000+ DSA problems solved across LeetCode & GFG",
-  philosophy:  "Ship fast. Learn deep. Build with purpose.",
+## 🧠 Who Am I?
+
+```typescript
+const anupam = {
+  name:       "Anupam Singh",
+  title:      "SDE-1 @ GetWork | Full Stack + GenAI Engineer",
+  education:  "B.Tech CSE — MNNIT Allahabad (2021–2025) | CPI: 7.47",
+  location:   "🇮🇳 India",
+  currentWork: {
+    company: "GetWork",
+    impact:  "50K–70K+ users across 3 production apps",
+    stack:   ["Go", "Python", "React", "Azure OpenAI", "Redis", "AWS"],
+  },
+  expertise:  ["GenAI", "RAG", "MCP", "Multi-Agent AI", "Agentic Systems"],
+  dsa:        "1000+ problems solved on LeetCode & GFG",
+  philosophy: "🚀 Ship fast. Learn deep. Build with purpose.",
+  funFact:    "I love meditation 🧘 — keeps the recursion from stack-overflowing 😄",
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
 ## 💼 Experience
 
-### 🔹 SDE-1 — [GetWork](https://getwork.org) *(Dec 2024 – Present)*
-- 🚀 Delivered payments, subscriptions & schedulers for **3 production apps (50K+ users)** using **Razorpay, Go, Python, React, AWS SES/S3**
-- 🤖 Designed **GenAI semantic search** with **Azure OpenAI embeddings + Azure AI Search** → **+50% resume–job relevance**
-- 📊 End-to-end analytics for **2 platforms (70K+ users)** with **Chart.js**, optimized UI (lazy loading, pagination, infinite scroll)
-- 🔔 Orchestrated **FCM push notifications** → **+30% engagement**; backend jobs in **Go** for data migration & third-party job ingestion
-- 🔐 Backend auth: **JWT, OTP, SSO** with **Redis**, integrated with **React + Redux**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+</div>
 
-> 🏆 **Getwork Outstanding Newcomer Award** — Oct 2025
+### 🔹 SDE-1 — [GetWork](https://getwork.org) *(Dec 2024 – Present)*
+
+> 🏆 **Outstanding Newcomer Award — Oct 2025**
+
+| What | Impact |
+|:---|:---|
+| 💳 Payments, subscriptions & schedulers (Razorpay, Go, AWS SES/S3) | 3 production apps — 50K+ users |
+| 🤖 GenAI semantic search (Azure OpenAI + Azure AI Search) | **+50% resume–job match relevance** |
+| 📲 FCM push notification system (Go backend) | **+30% user engagement** |
+| 📊 End-to-end analytics (Chart.js, lazy loading, infinite scroll) | 2 platforms — 70K+ users |
+| 🔐 JWT + OTP + SSO auth with Redis + React/Redux | Full auth lifecycle |
 
 ### 🔹 SDE Intern — [WATI.IO](https://wati.io) *(Jan 2024 – Jul 2024)*
-- ⚙️ Architected **Zoom OAuth boilerplate** (Node.js, Express, React, Redis) → **-40% integration time**
-- 🔄 Built **real-time drag-and-drop chatbot flow builder** with **WebSockets** for live collaboration
-- 🐛 Resolved **100+ production issues** across frontend & backend for enterprise clients
+
+| What | Impact |
+|:---|:---|
+| ⚙️ Zoom OAuth boilerplate (Node.js, Express, React, Redis) | **-40% integration time** |
+| 🔄 Real-time drag-and-drop chatbot flow builder (WebSockets) | Live collaborative sync |
+| 🐛 Production bug resolution | **100+ issues resolved** |
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🤖 Project | ⚡ Tech | 🌟 Impact |
-|:---|:---|:---|
-| [**Intelligent Investment Advisor**](https://github.com/anupamxy) | Multi-Agent AI, Groq, HuggingFace, ChromaDB, Django, React, JWT, SSE | **+80% stock discovery** via sentiment + volatility ranking |
-| [**AI Quiz Builder**](https://github.com/anupamxy) | LLMs, PDF chunking, Django REST, React | **+50% quiz creation efficiency** across **10K+ users** |
+### 🤖 Intelligent Investment Advisor
+[![Demo](https://img.shields.io/badge/Live%20Demo-%23FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/anupamxy)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20AI-8B5CF6?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+> Multi-agent AI system (Market Data → Analysis → Memory → LLM) for personalized stock recommendations. Real-time APIs (Alpha Vantage, Yahoo Finance) + ChromaDB vector memory. **+80% stock discovery** via sentiment, volatility & sector ranking. SSE-based streaming with JWT auth.
+
+---
+
+### 📝 AI Quiz Builder
+[![Demo](https://img.shields.io/badge/Live%20Demo-%23FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://github.com/anupamxy)
+![LLM](https://img.shields.io/badge/LLM%20Powered-10B981?style=for-the-badge)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+> Converts PDFs → structured MCQs + answers + explanations using LLMs + PDF chunking. **+50% quiz creation efficiency** across **10,000+ users** vs traditional systems. Full-stack: Django REST + React.
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🛠️ Complete Tech Arsenal
+
+<div align="center">
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,c,cpp&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,java,c,cpp&theme=dark&perline=7"/>
 
-### 🏗️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=redux,tailwind,sass,bootstrap&theme=dark"/>
-</p>
+### 🏗️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,html,css&theme=dark&perline=8"/>
 
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,docker&theme=dark"/>
-</p>
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,mongodb,mysql,redis,docker&theme=dark&perline=8"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,postman,vscode,figma&theme=dark&perline=7"/>
 
 ### 🤖 AI / GenAI Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-00BCD4?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-10B981?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
 
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,figma&theme=dark"/>
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF"/>
-  <img src="https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupamxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamxy&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSE%20Streaming-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF"/>
+<img src="https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Activity
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 📊 GitHub Stats — The Full Picture
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anupamxy&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=anupamxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamxy&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=ffffff&sideLabels=a78bfa&dates=888888" width="49%"/>
 
 <br/>
 
-| 🥇 Achievement | 📅 Date |
-|:---|:---|
-| 🏆 **Getwork Outstanding Newcomer Award** | Oct 2025 |
-| 💻 **1000+ DSA problems** on LeetCode, GFG & more | Ongoing |
-| 🥇 **HACK36** — Top 5 among 1000+ students | Feb 2024 |
-| 🎯 **Smart India Hackathon** — Final Round Team Lead | 2024 |
-| 🔥 **Physics Wallah Hackathon** — Top 100 team | Nov 2023 |
-| 🎓 **T&P Representative** — Placed 2000+ students, MNNIT | 2024–2025 |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamxy&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10" width="40%"/>
 
----
+<br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupamxy&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupamxy&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed&custom_title=Anupam's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
 ---
 
-## 🧩 CS Core Expertise
+## 🏆 GitHub Trophies
 
-```
-📐 DSA & Problem Solving     ████████████████████  1000+ problems
-🗄️ DBMS & SQL                ████████████████████  Production-grade
-🔒 OS & Networking           ████████████████████  
-🏛️ LLD & HLD                 ████████████████████  System Design
-🤖 LLMs & GenAI              ████████████████████  Azure, Groq, HF
-🔗 Agentic AI / RAG / MCP    ████████████████████  Multi-Agent Systems
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anupamxy&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🏅 Achievements & Recognition
+
 <div align="center">
+
+| 🥇 Achievement | 📅 |
+|:---|:---:|
+| 🏆 **Getwork Outstanding Newcomer Award** | Oct 2025 |
+| 💻 **1000+ DSA problems** — LeetCode, GFG & more | Ongoing |
+| 🎓 **T&P Representative** — Placements for **2000+ students** | 2024–25 |
+| 🥇 **HACK36** — Top 5 among 1000+ participants | Feb 2024 |
+| 🏆 **Smart India Hackathon** — Team Lead, Final Round | 2024 |
+| 🔥 **Physics Wallah Hackathon** — Top 100 team | Nov 2023 |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```
+🔭  Building  →  AI/ML-powered production systems at GetWork
+🌱  Learning  →  Next.js + Advanced Agentic AI architectures  
+🤝  Open to   →  Collaborations on GenAI & full-stack products
+⚡  Fun Fact  →  I meditate daily — keeps the bugs away 🧘
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+<br/>
 
 ### 💬 *"I don't just write code — I build systems that think."*
 
 <br/>
 
 <a href="https://www.buymeacoffee.com/anupam">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee — Anupam"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:302b63,100:0f0c29&height=140&section=footer&text=Let%27s%20Connect%20%26%20Build%20Together!&fontSize=22&fontColor=a78bfa&fontAlignY=65&animation=twinkling"/>
 
 </div>
+
+---
+
+<!-- 
+  ⚙️ SETUP: Animated Snake Contribution Graph
+  Create file: .github/workflows/snake.yml
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 */12 * * *" }]
+    workflow_dispatch:
+  jobs:
+    snake:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: anupamxy
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
