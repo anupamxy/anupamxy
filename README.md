@@ -37,7 +37,7 @@
 const anupam = {
   name:       "Anupam Singh",
   title:      "SDE-1 @ GetWork | Full Stack + GenAI Engineer",
-  education:  "B.Tech CSE — MNNIT Allahabad (2021–2025) | CPI: 7.47",
+  education:  "B.Tech  — MNNIT Allahabad (2021–2025) | CPI: 7.47",
   location:   "🇮🇳 India",
   currentWork: {
     company: "GetWork",
